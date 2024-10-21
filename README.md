@@ -1,4 +1,4 @@
-# host-php-website-packages
+# host-php-website-  contains [mysql server,php ,php database app]
 -- * Used Commands *--
 1. update apt
 sudo apt-get update
